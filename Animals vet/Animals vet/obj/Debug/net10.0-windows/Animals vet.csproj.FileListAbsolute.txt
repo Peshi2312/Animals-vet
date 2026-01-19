@@ -1,0 +1,19 @@
+C:\Users\Peshi\source\repos\Animals vet\Animals vet\bin\Debug\net10.0-windows\Animals vet.exe
+C:\Users\Peshi\source\repos\Animals vet\Animals vet\bin\Debug\net10.0-windows\Animals vet.deps.json
+C:\Users\Peshi\source\repos\Animals vet\Animals vet\bin\Debug\net10.0-windows\Animals vet.runtimeconfig.json
+C:\Users\Peshi\source\repos\Animals vet\Animals vet\bin\Debug\net10.0-windows\Animals vet.dll
+C:\Users\Peshi\source\repos\Animals vet\Animals vet\bin\Debug\net10.0-windows\Animals vet.pdb
+C:\Users\Peshi\source\repos\Animals vet\Animals vet\obj\Debug\net10.0-windows\Animals_vet.Form1.resources
+C:\Users\Peshi\source\repos\Animals vet\Animals vet\obj\Debug\net10.0-windows\Animals_vet.Form2.resources
+C:\Users\Peshi\source\repos\Animals vet\Animals vet\obj\Debug\net10.0-windows\Animals_vet.Form3.resources
+C:\Users\Peshi\source\repos\Animals vet\Animals vet\obj\Debug\net10.0-windows\Animals vet.csproj.GenerateResource.cache
+C:\Users\Peshi\source\repos\Animals vet\Animals vet\obj\Debug\net10.0-windows\Animals vet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Peshi\source\repos\Animals vet\Animals vet\obj\Debug\net10.0-windows\Animals vet.AssemblyInfoInputs.cache
+C:\Users\Peshi\source\repos\Animals vet\Animals vet\obj\Debug\net10.0-windows\Animals vet.AssemblyInfo.cs
+C:\Users\Peshi\source\repos\Animals vet\Animals vet\obj\Debug\net10.0-windows\Animals vet.csproj.CoreCompileInputs.cache
+C:\Users\Peshi\source\repos\Animals vet\Animals vet\obj\Debug\net10.0-windows\Animals vet.dll
+C:\Users\Peshi\source\repos\Animals vet\Animals vet\obj\Debug\net10.0-windows\refint\Animals vet.dll
+C:\Users\Peshi\source\repos\Animals vet\Animals vet\obj\Debug\net10.0-windows\Animals vet.pdb
+C:\Users\Peshi\source\repos\Animals vet\Animals vet\obj\Debug\net10.0-windows\Animals vet.genruntimeconfig.cache
+C:\Users\Peshi\source\repos\Animals vet\Animals vet\obj\Debug\net10.0-windows\ref\Animals vet.dll
+C:\Users\Peshi\source\repos\Animals vet\Animals vet\obj\Debug\net10.0-windows\Animals vet.sourcelink.json
